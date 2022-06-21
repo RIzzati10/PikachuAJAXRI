@@ -1,0 +1,20 @@
+body {
+    font-family: 'Staatliches', cursive;
+}
+
+#btn {
+    margin: 15px 0;
+    color: rgb(154, 233, 233);
+}
+
+.card-img-top {
+    width: 85px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-header,
+.card-tittle {
+    text-transform: capitalize;
+}
